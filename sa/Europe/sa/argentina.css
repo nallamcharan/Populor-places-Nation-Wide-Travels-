@@ -1,0 +1,17 @@
+body{
+    margin:20px;
+}
+header{
+    border: 2px solid rgb(196, 250, 114);
+    border-radius: 30px;
+    text-align:center;
+    background-color: green;
+}
+
+.imagecontainer{
+    text-align: center;
+}
+.Argentina img{
+width: 500px;
+height: 400px;
+}
